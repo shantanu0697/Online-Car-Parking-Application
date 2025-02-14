@@ -1,0 +1,436 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\admin\\Desktop\\Parkvilla\\Online-Car-Parking-Application\\Backend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5CB7FEA4-7A79-4DB0-8EE4-64D11F2CE57E}|OnlineParkingApplication.csproj|c:\\users\\admin\\desktop\\parkvilla\\online-car-parking-application\\backend\\models\\parkingzone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CB7FEA4-7A79-4DB0-8EE4-64D11F2CE57E}|OnlineParkingApplication.csproj|solutionrelative:models\\parkingzone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CB7FEA4-7A79-4DB0-8EE4-64D11F2CE57E}|OnlineParkingApplication.csproj|c:\\users\\admin\\desktop\\parkvilla\\online-car-parking-application\\backend\\models\\parkingdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CB7FEA4-7A79-4DB0-8EE4-64D11F2CE57E}|OnlineParkingApplication.csproj|solutionrelative:models\\parkingdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CB7FEA4-7A79-4DB0-8EE4-64D11F2CE57E}|OnlineParkingApplication.csproj|c:\\users\\admin\\desktop\\parkvilla\\online-car-parking-application\\backend\\custommodel\\customparkingarea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CB7FEA4-7A79-4DB0-8EE4-64D11F2CE57E}|OnlineParkingApplication.csproj|solutionrelative:custommodel\\customparkingarea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CB7FEA4-7A79-4DB0-8EE4-64D11F2CE57E}|OnlineParkingApplication.csproj|c:\\users\\admin\\desktop\\parkvilla\\online-car-parking-application\\backend\\models\\parkingarea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CB7FEA4-7A79-4DB0-8EE4-64D11F2CE57E}|OnlineParkingApplication.csproj|solutionrelative:models\\parkingarea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CB7FEA4-7A79-4DB0-8EE4-64D11F2CE57E}|OnlineParkingApplication.csproj|c:\\users\\admin\\desktop\\parkvilla\\online-car-parking-application\\backend\\models\\userdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CB7FEA4-7A79-4DB0-8EE4-64D11F2CE57E}|OnlineParkingApplication.csproj|solutionrelative:models\\userdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CB7FEA4-7A79-4DB0-8EE4-64D11F2CE57E}|OnlineParkingApplication.csproj|c:\\users\\admin\\desktop\\parkvilla\\online-car-parking-application\\backend\\models\\paymentdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CB7FEA4-7A79-4DB0-8EE4-64D11F2CE57E}|OnlineParkingApplication.csproj|solutionrelative:models\\paymentdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CB7FEA4-7A79-4DB0-8EE4-64D11F2CE57E}|OnlineParkingApplication.csproj|c:\\users\\admin\\desktop\\parkvilla\\online-car-parking-application\\backend\\models\\parkingslot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CB7FEA4-7A79-4DB0-8EE4-64D11F2CE57E}|OnlineParkingApplication.csproj|solutionrelative:models\\parkingslot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CB7FEA4-7A79-4DB0-8EE4-64D11F2CE57E}|OnlineParkingApplication.csproj|c:\\users\\admin\\desktop\\parkvilla\\online-car-parking-application\\backend\\models\\mydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CB7FEA4-7A79-4DB0-8EE4-64D11F2CE57E}|OnlineParkingApplication.csproj|solutionrelative:models\\mydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CB7FEA4-7A79-4DB0-8EE4-64D11F2CE57E}|OnlineParkingApplication.csproj|c:\\users\\admin\\desktop\\parkvilla\\online-car-parking-application\\backend\\models\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CB7FEA4-7A79-4DB0-8EE4-64D11F2CE57E}|OnlineParkingApplication.csproj|solutionrelative:models\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CB7FEA4-7A79-4DB0-8EE4-64D11F2CE57E}|OnlineParkingApplication.csproj|c:\\users\\admin\\desktop\\parkvilla\\online-car-parking-application\\backend\\models\\feedback.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CB7FEA4-7A79-4DB0-8EE4-64D11F2CE57E}|OnlineParkingApplication.csproj|solutionrelative:models\\feedback.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CB7FEA4-7A79-4DB0-8EE4-64D11F2CE57E}|OnlineParkingApplication.csproj|c:\\users\\admin\\desktop\\parkvilla\\online-car-parking-application\\backend\\models\\cardetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CB7FEA4-7A79-4DB0-8EE4-64D11F2CE57E}|OnlineParkingApplication.csproj|solutionrelative:models\\cardetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CB7FEA4-7A79-4DB0-8EE4-64D11F2CE57E}|OnlineParkingApplication.csproj|c:\\users\\admin\\desktop\\parkvilla\\online-car-parking-application\\backend\\controllers\\userdetailscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CB7FEA4-7A79-4DB0-8EE4-64D11F2CE57E}|OnlineParkingApplication.csproj|solutionrelative:controllers\\userdetailscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CB7FEA4-7A79-4DB0-8EE4-64D11F2CE57E}|OnlineParkingApplication.csproj|c:\\users\\admin\\desktop\\parkvilla\\online-car-parking-application\\backend\\controllers\\paymentdetailscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CB7FEA4-7A79-4DB0-8EE4-64D11F2CE57E}|OnlineParkingApplication.csproj|solutionrelative:controllers\\paymentdetailscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CB7FEA4-7A79-4DB0-8EE4-64D11F2CE57E}|OnlineParkingApplication.csproj|c:\\users\\admin\\desktop\\parkvilla\\online-car-parking-application\\backend\\controllers\\parkingzonescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CB7FEA4-7A79-4DB0-8EE4-64D11F2CE57E}|OnlineParkingApplication.csproj|solutionrelative:controllers\\parkingzonescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CB7FEA4-7A79-4DB0-8EE4-64D11F2CE57E}|OnlineParkingApplication.csproj|c:\\users\\admin\\desktop\\parkvilla\\online-car-parking-application\\backend\\controllers\\parkingslotscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CB7FEA4-7A79-4DB0-8EE4-64D11F2CE57E}|OnlineParkingApplication.csproj|solutionrelative:controllers\\parkingslotscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CB7FEA4-7A79-4DB0-8EE4-64D11F2CE57E}|OnlineParkingApplication.csproj|c:\\users\\admin\\desktop\\parkvilla\\online-car-parking-application\\backend\\controllers\\parkingdetailscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CB7FEA4-7A79-4DB0-8EE4-64D11F2CE57E}|OnlineParkingApplication.csproj|solutionrelative:controllers\\parkingdetailscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CB7FEA4-7A79-4DB0-8EE4-64D11F2CE57E}|OnlineParkingApplication.csproj|c:\\users\\admin\\desktop\\parkvilla\\online-car-parking-application\\backend\\controllers\\parkingareascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CB7FEA4-7A79-4DB0-8EE4-64D11F2CE57E}|OnlineParkingApplication.csproj|solutionrelative:controllers\\parkingareascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CB7FEA4-7A79-4DB0-8EE4-64D11F2CE57E}|OnlineParkingApplication.csproj|c:\\users\\admin\\desktop\\parkvilla\\online-car-parking-application\\backend\\controllers\\feedbackscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CB7FEA4-7A79-4DB0-8EE4-64D11F2CE57E}|OnlineParkingApplication.csproj|solutionrelative:controllers\\feedbackscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CB7FEA4-7A79-4DB0-8EE4-64D11F2CE57E}|OnlineParkingApplication.csproj|c:\\users\\admin\\desktop\\parkvilla\\online-car-parking-application\\backend\\controllers\\cardetailscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CB7FEA4-7A79-4DB0-8EE4-64D11F2CE57E}|OnlineParkingApplication.csproj|solutionrelative:controllers\\cardetailscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CB7FEA4-7A79-4DB0-8EE4-64D11F2CE57E}|OnlineParkingApplication.csproj|c:\\users\\admin\\desktop\\parkvilla\\online-car-parking-application\\backend\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5CB7FEA4-7A79-4DB0-8EE4-64D11F2CE57E}|OnlineParkingApplication.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\DotNetFinalProject\\Yohan\\OnlineParkingApplication\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CB7FEA4-7A79-4DB0-8EE4-64D11F2CE57E}|OnlineParkingApplication.csproj|c:\\users\\admin\\desktop\\parkvilla\\online-car-parking-application\\backend\\custommodel\\customparkingslot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CB7FEA4-7A79-4DB0-8EE4-64D11F2CE57E}|OnlineParkingApplication.csproj|solutionrelative:custommodel\\customparkingslot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CB7FEA4-7A79-4DB0-8EE4-64D11F2CE57E}|OnlineParkingApplication.csproj|c:\\users\\admin\\desktop\\parkvilla\\online-car-parking-application\\backend\\custommodel\\custommodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CB7FEA4-7A79-4DB0-8EE4-64D11F2CE57E}|OnlineParkingApplication.csproj|solutionrelative:custommodel\\custommodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CB7FEA4-7A79-4DB0-8EE4-64D11F2CE57E}|OnlineParkingApplication.csproj|c:\\users\\admin\\desktop\\parkvilla\\online-car-parking-application\\backend\\custommodel\\customparkingzone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CB7FEA4-7A79-4DB0-8EE4-64D11F2CE57E}|OnlineParkingApplication.csproj|solutionrelative:custommodel\\customparkingzone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CB7FEA4-7A79-4DB0-8EE4-64D11F2CE57E}|OnlineParkingApplication.csproj|c:\\users\\admin\\desktop\\parkvilla\\online-car-parking-application\\backend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CB7FEA4-7A79-4DB0-8EE4-64D11F2CE57E}|OnlineParkingApplication.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CustomParkingArea.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\Parkvilla\\Online-Car-Parking-Application\\Backend\\CustomModel\\CustomParkingArea.cs",
+              "RelativeDocumentMoniker": "CustomModel\\CustomParkingArea.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\Parkvilla\\Online-Car-Parking-Application\\Backend\\CustomModel\\CustomParkingArea.cs",
+              "RelativeToolTip": "CustomModel\\CustomParkingArea.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T18:06:47.966Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Paymentdetail.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\Parkvilla\\Online-Car-Parking-Application\\Backend\\Models\\Paymentdetail.cs",
+              "RelativeDocumentMoniker": "Models\\Paymentdetail.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\Parkvilla\\Online-Car-Parking-Application\\Backend\\Models\\Paymentdetail.cs",
+              "RelativeToolTip": "Models\\Paymentdetail.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T18:06:22.11Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Parkingdetail.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\Parkvilla\\Online-Car-Parking-Application\\Backend\\Models\\Parkingdetail.cs",
+              "RelativeDocumentMoniker": "Models\\Parkingdetail.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\Parkvilla\\Online-Car-Parking-Application\\Backend\\Models\\Parkingdetail.cs",
+              "RelativeToolTip": "Models\\Parkingdetail.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T18:05:55.689Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Parkingarea.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\Parkvilla\\Online-Car-Parking-Application\\Backend\\Models\\Parkingarea.cs",
+              "RelativeDocumentMoniker": "Models\\Parkingarea.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\Parkvilla\\Online-Car-Parking-Application\\Backend\\Models\\Parkingarea.cs",
+              "RelativeToolTip": "Models\\Parkingarea.cs",
+              "ViewState": "AgIAAA4AAABA/P////8fwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T18:05:53.011Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Feedback.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\Parkvilla\\Online-Car-Parking-Application\\Backend\\Models\\Feedback.cs",
+              "RelativeDocumentMoniker": "Models\\Feedback.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\Parkvilla\\Online-Car-Parking-Application\\Backend\\Models\\Feedback.cs",
+              "RelativeToolTip": "Models\\Feedback.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T18:05:38.517Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Cardetail.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\Parkvilla\\Online-Car-Parking-Application\\Backend\\Models\\Cardetail.cs",
+              "RelativeDocumentMoniker": "Models\\Cardetail.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\Parkvilla\\Online-Car-Parking-Application\\Backend\\Models\\Cardetail.cs",
+              "RelativeToolTip": "Models\\Cardetail.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T18:05:35.491Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Parkingslot.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\Parkvilla\\Online-Car-Parking-Application\\Backend\\Models\\Parkingslot.cs",
+              "RelativeDocumentMoniker": "Models\\Parkingslot.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\Parkvilla\\Online-Car-Parking-Application\\Backend\\Models\\Parkingslot.cs",
+              "RelativeToolTip": "Models\\Parkingslot.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAowB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-10T07:28:00.949Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Parkingzone.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\Parkvilla\\Online-Car-Parking-Application\\Backend\\Models\\Parkingzone.cs",
+              "RelativeDocumentMoniker": "Models\\Parkingzone.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\Parkvilla\\Online-Car-Parking-Application\\Backend\\Models\\Parkingzone.cs",
+              "RelativeToolTip": "Models\\Parkingzone.cs",
+              "ViewState": "AgIAABIAAACAmZmZmZkzwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-10T03:03:43.115Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Userdetail.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\Parkvilla\\Online-Car-Parking-Application\\Backend\\Models\\Userdetail.cs",
+              "RelativeDocumentMoniker": "Models\\Userdetail.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\Parkvilla\\Online-Car-Parking-Application\\Backend\\Models\\Userdetail.cs",
+              "RelativeToolTip": "Models\\Userdetail.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T14:50:35.634Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "PaymentdetailsController.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\Parkvilla\\Online-Car-Parking-Application\\Backend\\Controllers\\PaymentdetailsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\PaymentdetailsController.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\Parkvilla\\Online-Car-Parking-Application\\Backend\\Controllers\\PaymentdetailsController.cs",
+              "RelativeToolTip": "Controllers\\PaymentdetailsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T18:04:21.47Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ParkingdetailsController.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\Parkvilla\\Online-Car-Parking-Application\\Backend\\Controllers\\ParkingdetailsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ParkingdetailsController.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\Parkvilla\\Online-Car-Parking-Application\\Backend\\Controllers\\ParkingdetailsController.cs",
+              "RelativeToolTip": "Controllers\\ParkingdetailsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T18:02:48.777Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ParkingareasController.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\Parkvilla\\Online-Car-Parking-Application\\Backend\\Controllers\\ParkingareasController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ParkingareasController.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\Parkvilla\\Online-Car-Parking-Application\\Backend\\Controllers\\ParkingareasController.cs",
+              "RelativeToolTip": "Controllers\\ParkingareasController.cs",
+              "ViewState": "AgIAALsAAAAAAAAAAAAUwM0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-10T05:55:37.856Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "LoginRequest.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\Parkvilla\\Online-Car-Parking-Application\\Backend\\Models\\LoginRequest.cs",
+              "RelativeDocumentMoniker": "Models\\LoginRequest.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\Parkvilla\\Online-Car-Parking-Application\\Backend\\Models\\LoginRequest.cs",
+              "RelativeToolTip": "Models\\LoginRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T15:19:38.802Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MyDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\Parkvilla\\Online-Car-Parking-Application\\Backend\\Models\\MyDbContext.cs",
+              "RelativeDocumentMoniker": "Models\\MyDbContext.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\Parkvilla\\Online-Car-Parking-Application\\Backend\\Models\\MyDbContext.cs",
+              "RelativeToolTip": "Models\\MyDbContext.cs",
+              "ViewState": "AgIAACAAAAAAZGZmZmYlwKAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-10T11:41:21.804Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "FeedbacksController.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\Parkvilla\\Online-Car-Parking-Application\\Backend\\Controllers\\FeedbacksController.cs",
+              "RelativeDocumentMoniker": "Controllers\\FeedbacksController.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\Parkvilla\\Online-Car-Parking-Application\\Backend\\Controllers\\FeedbacksController.cs",
+              "RelativeToolTip": "Controllers\\FeedbacksController.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAUwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-10T12:39:30.787Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UserdetailsController.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\Parkvilla\\Online-Car-Parking-Application\\Backend\\Controllers\\UserdetailsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UserdetailsController.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\Parkvilla\\Online-Car-Parking-Application\\Backend\\Controllers\\UserdetailsController.cs",
+              "RelativeToolTip": "Controllers\\UserdetailsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T14:35:43.908Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "CardetailsController.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\Parkvilla\\Online-Car-Parking-Application\\Backend\\Controllers\\CardetailsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CardetailsController.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\Parkvilla\\Online-Car-Parking-Application\\Backend\\Controllers\\CardetailsController.cs",
+              "RelativeToolTip": "Controllers\\CardetailsController.cs",
+              "ViewState": "AgIAAHsAAAAAAAAAAAAAAF8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-10T06:22:50.673Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ParkingslotsController.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\Parkvilla\\Online-Car-Parking-Application\\Backend\\Controllers\\ParkingslotsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ParkingslotsController.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\Parkvilla\\Online-Car-Parking-Application\\Backend\\Controllers\\ParkingslotsController.cs",
+              "RelativeToolTip": "Controllers\\ParkingslotsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAJ8AAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-10T03:20:49.014Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ParkingzonesController.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\Parkvilla\\Online-Car-Parking-Application\\Backend\\Controllers\\ParkingzonesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ParkingzonesController.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\Parkvilla\\Online-Car-Parking-Application\\Backend\\Controllers\\ParkingzonesController.cs",
+              "RelativeToolTip": "Controllers\\ParkingzonesController.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAMwBcAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-10T03:06:56.111Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\Parkvilla\\Online-Car-Parking-Application\\Backend\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\Parkvilla\\Online-Car-Parking-Application\\Backend\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AgIAAA4AAABQZ2ZmZmYkwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-14T18:02:22.846Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\DotNetFinalProject\\Yohan\\OnlineParkingApplication\\appsettings.json",
+              "ToolTip": "D:\\DotNetFinalProject\\Yohan\\OnlineParkingApplication\\appsettings.json",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-10T18:11:45.183Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "CustomModels.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\Parkvilla\\Online-Car-Parking-Application\\Backend\\CustomModel\\CustomModels.cs",
+              "RelativeDocumentMoniker": "CustomModel\\CustomModels.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\Parkvilla\\Online-Car-Parking-Application\\Backend\\CustomModel\\CustomModels.cs",
+              "RelativeToolTip": "CustomModel\\CustomModels.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAowBAAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-10T03:25:47.004Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "CustomParkingSlot.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\Parkvilla\\Online-Car-Parking-Application\\Backend\\CustomModel\\CustomParkingSlot.cs",
+              "RelativeDocumentMoniker": "CustomModel\\CustomParkingSlot.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\Parkvilla\\Online-Car-Parking-Application\\Backend\\CustomModel\\CustomParkingSlot.cs",
+              "RelativeToolTip": "CustomModel\\CustomParkingSlot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-10T03:20:37.194Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "CustomParkingZone.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\Parkvilla\\Online-Car-Parking-Application\\Backend\\CustomModel\\CustomParkingZone.cs",
+              "RelativeDocumentMoniker": "CustomModel\\CustomParkingZone.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\Parkvilla\\Online-Car-Parking-Application\\Backend\\CustomModel\\CustomParkingZone.cs",
+              "RelativeToolTip": "CustomModel\\CustomParkingZone.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABMAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-10T03:06:05.465Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\Parkvilla\\Online-Car-Parking-Application\\Backend\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\Parkvilla\\Online-Car-Parking-Application\\Backend\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAKwAAAAAAAAAAAAcwM8AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T15:24:20.772Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
